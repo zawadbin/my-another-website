@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 100px;
+    margin-left: 45%;
+}
+
+iframe {
+    width: 650px;
+    height: 350px;
+}
+
+table {
+    border: solid black 3px;
+    height: 120px;
+    width: 180px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.para-graph {
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+td,
+th {
+    border: solid white 3px;
+    text-transform: uppercase;
+}
+
+video {
+    height: 400px;
+    width: 450px;
+}
+
+h2 {
+    font-size: 35px;
+    color: red;
+    text-shadow: 3px 3px 3px black;
+}
+
+textarea {
+    text-transform: uppercase;
+}
+
+body {
+    background-color:whitesmoke;
+}
+
+ol li {
+    color: black;
+    list-style: square;
+}
+
+ol li a {
+    color: #232323;
+    text-decoration: none;
+}
